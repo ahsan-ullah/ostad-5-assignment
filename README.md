@@ -40,7 +40,7 @@
     - Username or Email Unique warning
 
 ## How to install
-> git clone [https://gitlab.com/ahsanullah716/ostad-module-five-assignment.git](https://github.com/ahsan-ullah/ostad-5-assignment.git)
+> git clone https://github.com/ahsan-ullah/ostad-5-assignment.git
 
 ## Use Technology
 - PHP OOP Technology 
